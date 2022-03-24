@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WanaKanaSharp", "WanaKanaSharp\WanaKanaSharp.csproj", "{29FAAED8-E6E2-4D5D-9049-A64588F564C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WanaKanaSharp.UnitTests", "WanaKanaSharp.UnitTests\WanaKanaSharp.UnitTests.csproj", "{93196D3C-A3CC-4D2D-B7FF-F990BA5382B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29FAAED8-E6E2-4D5D-9049-A64588F564C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FAAED8-E6E2-4D5D-9049-A64588F564C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FAAED8-E6E2-4D5D-9049-A64588F564C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FAAED8-E6E2-4D5D-9049-A64588F564C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93196D3C-A3CC-4D2D-B7FF-F990BA5382B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93196D3C-A3CC-4D2D-B7FF-F990BA5382B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93196D3C-A3CC-4D2D-B7FF-F990BA5382B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93196D3C-A3CC-4D2D-B7FF-F990BA5382B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {455ACC06-28AA-44B5-8EEA-731FB98E74E7}
+	EndGlobalSection
+EndGlobal
